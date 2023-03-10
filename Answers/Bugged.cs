@@ -31,8 +31,8 @@ namespace App.Answers
 
              Console.WriteLine($"\nTotal sentence: {sentence}");
 
-            //  Console.WriteLine($"Press any key to exit...");
-            //  Console.ReadKey();
+             Console.WriteLine($"Press any key to exit...");
+             Console.ReadKey();
              
              
         }
