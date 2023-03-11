@@ -9,7 +9,7 @@
             and the actual fix, Fixed.cs.
             */
 
-            Fixed.Ok();
+            Bugged.Oops();
         }
     }
 }
