@@ -1,5 +1,11 @@
+# Reference Source
+The algorithm in this section was gotten from:
+@) (C# 10.0 All-In-One for dummies) [https://www.dummies.com/book/technology/programming-web-design/csharp/c-10-0-all-in-one-for-dummies-289764/] by John Paul Mueller
+
+
+
 # Obective
-Build a sentence using the following:
+Build a sentence using the following steps:
 @) Create an array of exit terms. e.g `{"quit", "exit"}`
 @) declare variable statement`(type=string)` **initialize as an empty string**;
 @) declare variable canExit`(type=bool)` **initialize to false**
