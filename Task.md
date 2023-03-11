@@ -1,21 +1,21 @@
 # Reference Source
 The algorithm in this section was gotten from:
-@) (C# 10.0 All-In-One for dummies) [https://www.dummies.com/book/technology/programming-web-design/csharp/c-10-0-all-in-one-for-dummies-289764/] by John Paul Mueller
+* (C# 10.0 All-In-One for dummies) [https://www.dummies.com/book/technology/programming-web-design/csharp/c-10-0-all-in-one-for-dummies-289764/] by John Paul Mueller
 
 
 
 # Obective
 Build a sentence using the following steps:
-@) Create an array of exit terms. e.g `{"quit", "exit"}`
-@) declare variable statement`(type=string)` **initialize as an empty string**;
-@) declare variable canExit`(type=bool)` **initialize to false**
-@) declare and intialize variable phrase to an empty string
-@) Loop through the following steps:
+* Create an array of exit terms. e.g `{"quit", "exit"}`
+* declare variable statement`(type=string)` **initialize as an empty string**;
+* declare variable canExit`(type=bool)` **initialize to false**
+* declare and intialize variable phrase to an empty string
+* Loop through the following steps:
     -Prompt a user to enter a phrase from the command line and store in the *phrase* variable.
     -if variable *phrase* can be found in the aforementioned array quit the loop
     -else append *phrase* to the variable *statement*
     -print *statement* out to the console
-@) end **PROGRAM**
+* end **PROGRAM**
 
 
 ## Sample Output:
